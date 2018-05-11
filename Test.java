@@ -1,3 +1,5 @@
 class Test {
-	String name = ""
+	String name2 = ""
+	String name = "cai"
+
 }
